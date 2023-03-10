@@ -12,7 +12,7 @@ h1 {
   background-color: #147eb8;
   color: #c8e8f9;
   font-weight: bold;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
   padding: 30px;
 }
 
@@ -20,20 +20,20 @@ h3 {
   background-color: #147eb8;
   color: #c8e8f9;
   font-weight: bold;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
   padding: 10px;
 }
 
 form {
   background-color: #147eb8;
   color: #c8e8f9;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
   padding: 10px;
 }
 
 #user-info {
   background-color: #147eb8;
   color: #c8e8f9;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
   padding: 10px;
 }
