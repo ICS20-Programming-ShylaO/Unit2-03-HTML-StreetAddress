@@ -5,35 +5,35 @@
 */
 
 body {
-  background-color: #E6DBE5;
+  background-color: #DAEFFB;
 }
 
 h1 {
-  background-color: #9C84A8;
-  color: white;
+  background-color: #147EB8;
+  color: #C8E8F9;
   font-weight: bold;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  padding: 40px;
+  padding: 30px;
 }
 
 h3 {
-  background-color: #9C84A8;
-  color: white;
+  background-color: #147EB8;
+  color: #C8E8F9;
   font-weight: bold;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
 
 form {
-  background-color: #A894B3;
-  color: white;
+  background-color: #147EB8;
+  color: #C8E8F9;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
 
 #user-info {
-  background-color: #2c875c;
-  color: white;
+  background-color: #147EB8;
+  color: #C8E8F9;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
