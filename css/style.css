@@ -2,7 +2,7 @@
 * Created on: Mar 2023
 * This CSS file defines the style for index.html
 * ICS2O-Unit2-03-HTML-StreetAddress
-* THIS FILE HAS WEIRD ERRORS THAT WILL RUIN MY CODE, SO MY SUPER LINTER IS BROKEN
+* THIS FILE HAS WEIRD ERRORS THAT WILL RUIN MY CODE, SO MY SUPER LINTER BADGE IS FAILING
 */
 
 body {
@@ -13,28 +13,28 @@ h1 {
   background-color: #147eb8;
   color: #c8e8f9;
   font-weight: bold;
-  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
   padding: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h3 {
   background-color: #147eb8;
   color: #c8e8f9;
   font-weight: bold;
-  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
 
 form {
   background-color: #147eb8;
   color: #c8e8f9;
-  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
 
 #user-info {
   background-color: #147eb8;
   color: #c8e8f9;
-  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
